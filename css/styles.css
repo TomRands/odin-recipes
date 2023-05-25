@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: grey;
+    background-size: 53px 53px;
+    background-image: radial-gradient(
+        transparent 28px,
+        #e4f2f2 28px,
+        #e4f2f2 32px,
+        transparent 32px
+    );
+    font-size: larger;
+    text-align: center;
+    list-style: inside;
+    font-family: Aileron-UltraLight,Helvetica,sans-serif;
+}
